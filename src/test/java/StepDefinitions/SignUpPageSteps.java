@@ -1,12 +1,13 @@
 package StepDefinitions;
 
-import Pages.LoginPage;
+import org.openqa.selenium.WebDriver;
+
+import com.mailslurp.clients.ApiException;
+import com.thoughtworks.gauge.Step;
+
 import Pages.SignUpPage;
 import Util.DriverFactory;
 import Util.TempMail;
-import com.mailslurp.clients.ApiException;
-import com.thoughtworks.gauge.Step;
-import org.openqa.selenium.WebDriver;
 
 public class SignUpPageSteps {
     WebDriver driver = DriverFactory.getDriver();
@@ -28,7 +29,7 @@ public class SignUpPageSteps {
     public void signup() throws ApiException {
         tempMail = sign.createInbox();
         // Formu doldur
-        sign.signup(tempMail.emailAddress, "987321654gG.");
+        sign.signup(tempMail.emailAddress, ".");
     }
 
     @Step("User clicks sign up button")
