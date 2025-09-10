@@ -1,0 +1,33 @@
+Created by gokcenaz.torgan on 26.08.2025
+
+This is a concept file with following syntax for each concept.
+# User is in the Trendyol login page
+* User is in home page and accept cookies
+* User click the login button
+
+# User is in the Trendyol sign up page
+* User is in home page and accept cookies
+* User click the signup button
+
+# User is in My Cart Page
+* Successfull Login
+* User is in my cart page
+
+# User is in favorites
+* Successfull Login
+* User is in favorites page
+
+#  User is in collections
+* User is in favorites
+* User is in collections page
+
+
+# User is in payment page
+* User is in My Cart Page
+* User is in Payment Page
+
+
+
+
+
+

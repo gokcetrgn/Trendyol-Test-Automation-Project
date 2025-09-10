@@ -1,0 +1,18 @@
+# Add address
+* User is in payment page
+* User adds "Gokcenaz" for name, "Torgan" for surname and "5329876521" for mobile
+* User choose "Bursa" for city
+* User choose "Nilüfer" for district and "Yaylacık Mah" for neighborhood
+* User writes "Address Bursa İnegöl" for address and "Address" for title
+* User saves his address
+
+# Add card number
+* User is in payment page
+* Add test "4242424242424242"
+* Add "07" for months and "2030" for years and "212"
+
+
+# Buy items
+* User is in payment page
+* User clicks checkbox
+* User clicks payment button

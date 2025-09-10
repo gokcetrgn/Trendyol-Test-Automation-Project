@@ -1,0 +1,6 @@
+#Successfull SignUp
+* User is in the Trendyol sign up page
+* User writes email on email textfield and writes password on password textfield
+* User chooses "Kadın" for gender
+* User clicks sign up button
+* User gets verification code from email and enters it

@@ -1,0 +1,32 @@
+Created by gokcenaz.torgan on 26.08.2025
+
+This is a concept file with following syntax for each concept.
+# Successfull Login
+* User is in Trendyol login page
+* User writes "gokcenaztrgn@gmail.com" on email textfield
+* User writes "" on password textfield
+* User clicks login button
+
+
+# Wrong Format of Email
+* User is in Trendyol login page
+* User writes "gokcenaztrgn@gils.com" on email textfield
+* User writes "3417037" on password textfield
+* User clicks login button
+* User has an "Lütfen geçerli bir e-posta adresi giriniz." error
+
+
+# Wrong Password
+* User is in Trendyol login page
+* User writes "gokcenaztrgn@gmail.com" on email textfield
+* User writes "3417037" on password textfield
+* User clicks login button
+* User has an "Şifreniz yanlış!" error
+
+
+# Wrong Email & Wrong Password
+* User is in Trendyol login page
+* User writes "gotrgn@gmail.com" on email textfield
+* User writes "3417037" on password textfield
+* User clicks login button
+* User has an "" error

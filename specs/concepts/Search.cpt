@@ -1,0 +1,21 @@
+Created by gokcenaz.torgan on 26.08.2025
+
+This is a concept file with following syntax for each concept.
+# User search a phone
+* User clicks search button
+* User writes "Iphone 11"
+* User clicks search icon
+
+# User search a schoolbag
+* User clicks search button
+* User writes "Okul Çantası"
+* User clicks search icon
+
+# User search a lip gloss
+* User clicks search button
+* User writes "Maybelline Lipgloss"
+* User clicks search icon
+
+# User search from popular search
+* User clicks search button
+* User click one of popular search
